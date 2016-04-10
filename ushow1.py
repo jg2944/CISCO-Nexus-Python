@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+# coucou
 # Python script to collect useful show commands Outputs in a single file stored in the Bootflash:
 #
 # Copy this Python script in N5K Bootflash:/scripts subdirectory via command : copy tftp: bootflash:/scripts
